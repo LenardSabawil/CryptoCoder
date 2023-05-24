@@ -68,8 +68,12 @@ CryptoCoder: A Polyalphabetic Substitution Encryption tool
 
 5. Members: 
   	 
- 	Justine Lenard Sabawil - Developer 
+ 	Justine Lenard Sabawil - Developer
+  
  	Mae Escurel            - documentary 
+  
  	Dona Balaoro 
+  
  	Francis Jhonrel Gilos 
+  
  	Alyanna Mae Garbida 
